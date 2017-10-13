@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="mvc_framework_lab:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mvc_framework_lab_jar</output-path>
+    <root id="archive" name="mvc_framework_lab.jar">
+      <element id="module-output" name="mvc_framework_lab" />
+      <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+    </root>
+  </artifact>
+</component>
